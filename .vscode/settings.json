@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/digital clock/index.html"
+    "livePreview.defaultPreviewPath": "/digital clock/index.html",
+    "liveServer.settings.port": 5501
 }
